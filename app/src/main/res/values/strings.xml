@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProjectCatalogueMovieS1</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="search">Search</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="movie_description">Movie Description</string>
+    <string name="movie_date">Movie Date</string>
+    <string name="poster">Poster</string>
+</resources>
