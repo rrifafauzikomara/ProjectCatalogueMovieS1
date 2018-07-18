@@ -15,16 +15,10 @@ untuk dapat mengikuti kelas ini.
 ### Petunjuk menjalankan source code aplikasi
 
 Untuk menjalankan source code aplikasi ini, anda perlu registrasi API KEY dari www.themoviedb.org
-kemudian memasukkan API KEY yang telah didapat ke dalam file ***utils/UtilsConstant.java***
+kemudian memasukkan API KEY yang telah didapat ke dalam file ***Adapter/MovieAPI.java***
 
 ```
-public final static String API_KEY = "Paste API KEY anda disini";
-```
-
-Kemudian hapus baris berikut pada file ***build.gradle***
-
-```
-buildConfigField 'String', "ApiKey", Catalogue_Movie_ApiKey
+private static final String API_KEY = "Paste API KEY anda disini";
 ```
 
 ## Author
