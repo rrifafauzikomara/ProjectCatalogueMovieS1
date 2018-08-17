@@ -1,6 +1,5 @@
 # ProjectCatalogueMovieS1
-Aplikasi katalog movie untuk submission pertama beasiswa MADE (Menjadi Android Developer Expert) dari Dicoding https://www.dicoding.com/academies/14/ . Thanks to Google yang telah memberikan beasiswa
-untuk dapat mengikuti kelas ini.
+Aplikasi katalog movie untuk submission pertama beasiswa MADE (Menjadi Android Developer Expert) dari Dicoding https://www.dicoding.com/academies/14/ .
 
 <pre>
 <img src="Screenshot/Screenshot_2018-06-22-12-52-21.png" width="250" height="444">         <img src="Screenshot/Screenshot_2018-06-22-12-52-40.png" width="250" height="444">
