@@ -1,8 +1,8 @@
 package com.example.rifafauzi6.projectcataloguemovies1.Adapter;
 
 import android.content.Context;
-import android.support.annotation.Nullable;
-import android.support.v4.content.AsyncTaskLoader;
+import androidx.annotation.Nullable;
+import androidx.loader.content.AsyncTaskLoader;
 import android.util.Log;
 
 import com.example.rifafauzi6.projectcataloguemovies1.MovieItems;
@@ -54,7 +54,7 @@ public class MovieAPI extends AsyncTaskLoader<ArrayList<MovieItems>> {
         }
     }
 
-    private static final String API_KEY = "24d18ef569e3997bf2779d05440d3c6e";
+    private static final String API_KEY = "YOUR_API_KEY";
 
     @Nullable
     @Override
